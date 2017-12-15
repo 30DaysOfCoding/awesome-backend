@@ -21,6 +21,7 @@
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon)
+- [Golang](https://github.com/avelino/awesome-go)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
