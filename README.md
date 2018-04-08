@@ -32,3 +32,4 @@
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
 - [API Plataform](https://github.com/api-platform/api-platform) - PHP framework to build modern web APIs.
 - [Swagger Tools](https://github.com/swagger-api) - API framework for designing, building, and documenting RESTful APIs.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
