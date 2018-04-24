@@ -13,7 +13,7 @@
 - [Ruby](#ruby)
 - [Golang](#golang)
 - [Java](#java)
-- [NodeJS](#nodejs)
+- [NodeJS/JavaScript](#nodejs)
 - [Misc](#misc)   
 
 
@@ -50,6 +50,7 @@
 
 ## NodeJS
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+- [Airbnb JavaScript Style Guide](https://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/index.html)
 
 ## Misc
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
