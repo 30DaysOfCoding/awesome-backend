@@ -23,7 +23,7 @@
 - [Pyramid](https://github.com/uralbash/awesome-pyramid) 
 
 ## PHP
--- [Symfony](https://github.com/sitepoint/awesome-symfony)
+- [Symfony](https://github.com/sitepoint/awesome-symfony)
 	- [Education](https://github.com/pehapkari/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
