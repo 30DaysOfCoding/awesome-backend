@@ -5,7 +5,7 @@
 
 <br>
 
-# Sumário - por linguagem de progração
+# Sumário - por linguagem de programação
 
 - [Python](#python)
 - [PHP](#php)   
@@ -13,7 +13,7 @@
 - [Ruby](#ruby)
 - [Golang](#golang)
 - [Java](#java)
-- [NodeJS/JavaScript](#nodejs)
+- [JavaScript](#javascript)
 - [Elixir](#elixir)
 - [Misc](#misc)   
 
@@ -49,7 +49,7 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
 
-## NodeJS
+## Javascript
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 - [Airbnb JavaScript Style Guide](https://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/index.html)
 
