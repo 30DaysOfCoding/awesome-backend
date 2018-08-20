@@ -5,12 +5,14 @@
 
 <br>
 
-# Sumário - por linguagem de progração
+# Sumário - por linguagem de programação
 
 - [DevOps](#devops)   
 - [Elixir](#elixir)
 - [Golang](#golang)
 - [Java](#java)
+- [JavaScript](#javascript)
+- [Elixir](#elixir)
 - [Misc](#misc)   
 - [NodeJS/JavaScript](#nodejs)
 - [PHP](#php)   
@@ -32,6 +34,14 @@
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
+
+## Javascript
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+- [Airbnb JavaScript Style Guide](https://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/index.html)
+
+## Elixir
+- [Elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.
+- [Phoenix](https://github.com/droptheplot/awesome-phoenix) - Collection of awesome open-source apps made with Phoenix Framework.
 
 ## Misc
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
