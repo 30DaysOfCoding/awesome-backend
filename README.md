@@ -7,8 +7,7 @@
 
 # Sumário - por linguagem de programação
 
-- [DevOps](#devops)   
-- [Elixir](#elixir)
+- [DevOps](#devops)
 - [Golang](#golang)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -22,10 +21,6 @@
 ## DevOps
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
-
-## Elixir
-- [Elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.
-- [Phoenix](https://github.com/droptheplot/awesome-phoenix) - Collection of awesome open-source apps made with Phoenix Framework.
 
 ## Golang
 - [Golang](https://github.com/avelino/awesome-go)
@@ -57,9 +52,9 @@
 
 ## PHP
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
-	- [Education](https://github.com/pehapkari/awesome-symfony-education)
+- [Education](https://github.com/pehapkari/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework.
-	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
+- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp) - PHP framework.
 - [API Plataform](https://github.com/api-platform/api-platform) - PHP framework to build modern web APIs.
@@ -72,4 +67,4 @@
 
 ## Ruby
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
-	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
+- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
