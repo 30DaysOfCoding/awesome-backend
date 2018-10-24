@@ -45,6 +45,7 @@
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Swagger Tools](https://github.com/swagger-api) - API framework for designing, building, and documenting RESTful APIs.
+- [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - Tech and social media is having a big impact on our society.
 
 ## NodeJS
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
